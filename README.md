@@ -1,6 +1,6 @@
 # ClaimTrack — Insurance Claims Dashboard
 
-A responsive, enterprise-style insurance claims management dashboard built as a frontend portfolio project. Inspired by Guidewire ClaimCenter, it demonstrates real-world React patterns including multi-user authentication, protected routing, per-user data isolation, dark/light theming, and full form validation — all without a backend.
+A responsive, enterprise-style insurance claims management dashboard built as a frontend portfolio project. It demonstrates real-world React patterns including multi-user authentication, protected routing, per-user data isolation, dark/light theming, and full form validation — all without a backend.
 
 ---
 
@@ -173,7 +173,7 @@ npm run preview  # Preview production build locally
 
 ## Why This Project
 
-This project was built to demonstrate frontend skills relevant to enterprise insurance software (like Guidewire ClaimCenter). It covers:
+This project was built to demonstrate frontend skills relevant to enterprise insurance software. It covers:
 
 - Real-world React patterns (context, protected routes, controlled forms)
 - Multi-user UX with scoped data per account
