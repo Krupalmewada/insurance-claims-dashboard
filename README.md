@@ -11,8 +11,17 @@ A responsive, enterprise-style insurance claims management dashboard built as a 
 ---
 
 ## Screenshots
+<img width="1910" height="900" alt="Screenshot 2026-03-28 221157" src="https://github.com/user-attachments/assets/28a39f09-09ac-4cdc-9527-eb07bcb53a7a" />
 
-> Add screenshots here after deployment
+<img width="1912" height="908" alt="Screenshot 2026-03-28 221209" src="https://github.com/user-attachments/assets/55ecfad4-7e31-4511-9aa1-3ec0381bfa86" />
+
+<img width="1911" height="908" alt="Screenshot 2026-03-28 221223" src="https://github.com/user-attachments/assets/3aff1237-a18a-4f84-80bb-9e6d93cfa38a" />
+
+<img width="1910" height="897" alt="Screenshot 2026-03-28 221235" src="https://github.com/user-attachments/assets/a595e9d9-af5c-451a-821d-5bc18603d323" />
+
+
+
+
 
 ---
 
