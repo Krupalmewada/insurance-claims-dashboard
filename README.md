@@ -73,8 +73,8 @@ A responsive, enterprise-style insurance claims management dashboard built as a 
 ## Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/insurance-claims-dashboard.git
-cd insurance-claims-dashboard
+git clone https://github.com/Krupalmewada/IsuranceDemoApp.git
+cd IsuranceDemoApp
 npm install
 npm run dev
 ```
