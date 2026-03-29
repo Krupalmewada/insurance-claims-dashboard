@@ -6,7 +6,7 @@ A responsive, enterprise-style insurance claims management dashboard built as a 
 
 ## Live Demo
 
-🔗 **[View Live App](https://insurance-claims-dashboard-qclzj51ym-krupalmewadas-projects.vercel.app)**
+🔗 **[View Live App](https://insurance-claims-dashboard-9cwxiowbf-krupalmewadas-projects.vercel.app)**
 
 ---
 
@@ -86,8 +86,8 @@ A responsive, enterprise-style insurance claims management dashboard built as a 
 ## Getting Started
 
 ```bash
-git clone https://github.com/Krupalmewada/IsuranceDemoApp.git
-cd IsuranceDemoApp
+git clone https://github.com/Krupalmewada/insurance-claims-dashboard.git
+cd insurance-claims-dashboard
 npm install
 npm run dev
 ```
