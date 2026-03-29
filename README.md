@@ -4,11 +4,15 @@ A responsive, enterprise-style insurance claims management dashboard built as a 
 
 ---
 
+## Live Demo
+
+🔗 **[View Live App](https://insurance-claims-dashboard-qclzj51ym-krupalmewadas-projects.vercel.app)**
+
+---
+
 ## Screenshots
 
-> Dashboard · Claims List · Claim Detail · New Claim · Login
-
-*(Add screenshots here after deployment)*
+> Add screenshots here after deployment
 
 ---
 
