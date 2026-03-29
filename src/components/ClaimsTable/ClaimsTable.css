@@ -1,0 +1,126 @@
+.claims-table-wrapper {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+  transition: border-color 0.2s ease;
+}
+
+.claims-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  min-width: 560px;
+  background-color: var(--color-surface);
+}
+
+.claims-table thead {
+  background-color: var(--color-surface-secondary);
+  border-bottom: 1px solid var(--color-border);
+  transition: background-color 0.2s ease;
+}
+
+.claims-table th {
+  text-align: left;
+  padding: 11px 16px;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: var(--color-text-secondary);
+  white-space: nowrap;
+}
+
+.claims-table td {
+  padding: 13px 16px;
+  color: var(--color-text-primary);
+  border-bottom: 1px solid var(--color-border);
+  vertical-align: middle;
+  transition: background-color 0.12s ease;
+}
+
+.claims-table__row:last-child td {
+  border-bottom: none;
+}
+
+.claims-table__row {
+  cursor: pointer;
+  transition: background-color 0.12s ease;
+}
+
+.claims-table__row:hover {
+  background-color: var(--color-accent-light);
+}
+
+[data-theme="dark"] .claims-table__row:hover {
+  background-color: rgba(88, 166, 255, 0.08);
+}
+
+.claims-table__row:focus {
+  outline: 2px solid var(--color-accent);
+  outline-offset: -2px;
+  background-color: var(--color-accent-light);
+}
+
+[data-theme="dark"] .claims-table__row:focus {
+  background-color: rgba(88, 166, 255, 0.08);
+}
+
+.claims-table__id {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--color-accent);
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.claims-table__claimant {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.claims-table__name {
+  font-weight: 500;
+  color: var(--color-text-primary);
+}
+
+.claims-table__email {
+  font-size: 12px;
+  color: var(--color-text-muted);
+}
+
+.claims-table__type {
+  display: inline-block;
+  padding: 2px 8px;
+  background-color: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--color-text-secondary);
+  transition: background-color 0.2s ease;
+}
+
+.claims-table__amount {
+  font-weight: 600;
+  color: var(--color-text-primary);
+  font-variant-numeric: tabular-nums;
+}
+
+.claims-table__empty {
+  padding: 48px 24px;
+  text-align: center;
+  color: var(--color-text-muted);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  background-color: var(--color-surface);
+}
+
+.claims-table__empty p {
+  font-size: 14px;
+  font-weight: 500;
+}
